@@ -1,0 +1,29 @@
+
+{
+    "Format": "CHIA-0007",
+    "name": "",
+    "description": "",
+    "minting_tool": "",
+    "sensitve_content": false,
+    "series_number": "",
+    "series_total ": "",
+    "attributes": [
+        {   
+        "trait_type": "",
+        "value_type": ""
+        
+        }
+    ],
+    "collection": {
+
+        "name": "",
+        "id": "",
+        "attributes":[
+            {
+                "type": "",
+                "value": ""
+            }
+        ]
+    }
+
+}
