@@ -32,6 +32,13 @@ This file generate hash256 codes from the json files generated from csv2jsonconv
 #### Main.py
 This is the *entry point to the script*
 
+**NOTE:**
+1. All json files are generated automatically and stored in the jsonpath directory - "jsonpath"
+
+2. Hash codes are stored in hash.txt
+
+3. codes are commented out properly
+
 
 ## USAGE
 
@@ -44,4 +51,8 @@ Please delete your .csv files column titles
 
 3. Run **main.py**
 
-Your hash256 code will show on your terminal. The codes appear according to json files appearance this directory "/jsonpath"
+Your hash256 code will show on your terminal. 
+
+The hash codes appear according to json files appearance this directory "/jsonpath"
+
+You can also see your codes in the hash.txt file
