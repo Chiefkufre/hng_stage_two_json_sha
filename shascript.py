@@ -18,7 +18,7 @@ def create_hash_function(jsonfile):
         for byteBlock in iter(lambda: f.read(4096), b""):
             hash.update(byteBlock)
             print(hash.hexdigest())
-            append_hashcode(hash, 10)
+            append_hashcode(hash, 20)
             
 
 
